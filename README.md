@@ -1,4 +1,4 @@
-# Pre-work - *Timothy Stewart*
+# Pre-work - *tipCal3*
 
 **tipCal3 ** is a tip calculator application for iOS.
 
